@@ -1,0 +1,15 @@
+site_name: QingCloud CookBook
+site_url: https://community.qingcloud.com/
+site_description: QingCloud CookBook.
+site_author: QingCloud
+
+repo_url: https://github.com/Xuanwo/qingcloud-cookbook
+
+pages:
+- Home: index.md
+
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition:
+
