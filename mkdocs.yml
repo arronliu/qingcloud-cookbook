@@ -6,7 +6,9 @@ site_author: QingCloud
 repo_url: https://github.com/Xuanwo/qingcloud-cookbook
 
 pages:
-- Home: index.md
+- 首页: index.md
+- 网络:
+    - 安全: network/security.md
 
 markdown_extensions:
     - toc:
